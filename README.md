@@ -1,5 +1,6 @@
-# code-mysql-server
+# code-server
 
+# Sql
 ## 1: Login:
 ```mysql
   mysql -u root -p
