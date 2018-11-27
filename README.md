@@ -18,3 +18,8 @@
   //4 
   SHOW GRANTS FOR 'techonthenet';
 ```
+## 3: Connect to a server by using SSH on Linux or Mac OS X
+
+```sh
+ssh command with username@ipaddress
+```
