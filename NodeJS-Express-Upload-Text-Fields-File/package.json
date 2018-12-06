@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-upload-text-fields-file",
+  "version": "1.0.0",
+  "description": "Building a NodeJS/Express to upload Form with Text-Fields & MultipartFile using Multer middleware + Bootstrap view + JQuery Ajax",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Bootstrap",
+    "Multer",
+    "JQuery-Ajax",
+    "MultipartFile-TextFields-Form"
+  ],
+  "author": "JavaSampleApproach.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "multer": "^1.3.0"
+  }
+}
